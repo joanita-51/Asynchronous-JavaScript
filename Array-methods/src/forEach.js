@@ -40,3 +40,4 @@ companies.forEach(function(company){
 companies.forEach(function(company){
     console.log(company.name)
 });
+
