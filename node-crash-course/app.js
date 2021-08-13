@@ -3,7 +3,8 @@
 
 const names = require("./4_names")
 const sayHi = require("./5_utilies")
-console.log(names)
+const data = require("./6_alternative")
+console.log(data)
 
 sayHi('susan')
 sayHi(names.anita)
